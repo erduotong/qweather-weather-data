@@ -1,2 +1,7 @@
 # qweather-weather-data
 一个存储和风天气的中国每日天气数据的存储库
+
+现在你可以前往scripts分支来查看对应的rust脚本，并且你可以运行以获得当天的天气数据
+记得在.env提供QWEATHER_KEY和QWEATHER_ID
+
+目前烂尾,因为缺少一个合适的环境来存放这么多数据+懒得开发（
