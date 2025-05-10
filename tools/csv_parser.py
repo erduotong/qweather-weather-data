@@ -17,7 +17,7 @@ def main():
     with open(input_csv, encoding="utf-8-sig") as f:
         lines = f.readlines()
     header_idx = next(
-        (i for i, line in enumerate(lines) if line.startswith("Location_ID,")), None
+        (i for i, line in enumerate(lines) if line.startswith("location_id,")), None
     )
     if header_idx is None:
         print("未找到表头")

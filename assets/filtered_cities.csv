@@ -1,4 +1,4 @@
-﻿Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Country_Region_ZH,Adm1_Name_EN,Adm1_Name_ZH,Adm2_Name_EN,Adm2_Name_ZH,Timezone,Latitude,Longitude,AD_code
+﻿location_id,location_name_en,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Country_Region_ZH,Adm1_Name_EN,Adm1_Name_ZH,Adm2_Name_EN,Adm2_Name_ZH,Timezone,Latitude,Longitude,AD_code
 101010100,Beijing,北京,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.905,116.4053,110000
 101020100,Shanghai,上海,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.2317,121.4726,310000
 101030100,Tianjin,天津,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.1256,117.1902,120000
