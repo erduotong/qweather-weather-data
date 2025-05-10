@@ -1,0 +1,733 @@
+﻿Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Country_Region_ZH,Adm1_Name_EN,Adm1_Name_ZH,Adm2_Name_EN,Adm2_Name_ZH,Timezone,Latitude,Longitude,AD_code
+101010100,Beijing,北京,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.905,116.4053,110000
+101020100,Shanghai,上海,CN,China,中国,Shanghai,上海市,Shanghai,上海市,Asia/Shanghai,31.2317,121.4726,310000
+101030100,Tianjin,天津,CN,China,中国,Tianjin,天津市,Tianjin,天津市,Asia/Shanghai,39.1256,117.1902,120000
+101040100,Chongqing,重庆,CN,China,中国,Chongqing,重庆市,Chongqing,重庆市,Asia/Shanghai,29.5638,106.5505,500000
+101050101,Harbin,哈尔滨,CN,China,中国,Heilongjiang,黑龙江省,Harbin,哈尔滨市,Asia/Shanghai,45.803,126.5351,230100
+101050201,Qiqihar,齐齐哈尔,CN,China,中国,Heilongjiang,黑龙江省,Qiqihar,齐齐哈尔市,Asia/Shanghai,47.3421,123.9579,230200
+101050301,Mudanjiang,牡丹江,CN,China,中国,Heilongjiang,黑龙江省,Mudanjiang,牡丹江市,Asia/Shanghai,44.583,129.6186,231000
+101050401,Jiamusi,佳木斯,CN,China,中国,Heilongjiang,黑龙江省,Jiamusi,佳木斯市,Asia/Shanghai,46.8096,130.3616,230800
+101050501,Suihua,绥化,CN,China,中国,Heilongjiang,黑龙江省,Suihua,绥化市,Asia/Shanghai,46.6374,126.9929,231200
+101050601,Heihe,黑河,CN,China,中国,Heilongjiang,黑龙江省,Heihe,黑河市,Asia/Shanghai,50.2496,127.499,231100
+101050701,Daxing'anling Prefecture,大兴安岭,CN,China,中国,Heilongjiang,黑龙江省,Daxing'anling Prefecture,大兴安岭地区,Asia/Shanghai,50.4113,124.1179,232700
+101050801,Yichun,伊春,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,47.7269,128.8993,230700
+101050901,Daqing,大庆,CN,China,中国,Heilongjiang,黑龙江省,Daqing,大庆市,Asia/Shanghai,46.5907,125.1127,230600
+101051002,Qitaihe,七台河,CN,China,中国,Heilongjiang,黑龙江省,Qitaihe,七台河市,Asia/Shanghai,45.7713,131.0156,230900
+101051101,Jixi,鸡西,CN,China,中国,Heilongjiang,黑龙江省,Jixi,鸡西市,Asia/Shanghai,45.3,130.976,230300
+101051201,Hegang,鹤岗,CN,China,中国,Heilongjiang,黑龙江省,Hegang,鹤岗市,Asia/Shanghai,47.3321,130.2775,230400
+101051301,Shuangyashan,双鸭山,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山市,Asia/Shanghai,46.6434,131.1573,230500
+101060101,Changchun,长春,CN,China,中国,Jilin,吉林省,Changchun,长春市,Asia/Shanghai,43.817,125.3236,220100
+101060201,Jilin,吉林,CN,China,中国,Jilin,吉林省,Jilin,吉林市,Asia/Shanghai,43.8436,126.553,220200
+101060306,Yanbian Prefecture,延边,CN,China,中国,Jilin,吉林省,Yanbian Korean Autonomous Prefecture,延边朝鲜族自治州,Asia/Shanghai,42.9048,129.5132,222400
+101060401,Siping,四平,CN,China,中国,Jilin,吉林省,Siping,四平市,Asia/Shanghai,43.1703,124.3708,220300
+101060501,Tonghua,通化,CN,China,中国,Jilin,吉林省,Tonghua,通化市,Asia/Shanghai,41.7212,125.9365,220500
+101060601,Baicheng,白城,CN,China,中国,Jilin,吉林省,Baicheng,白城市,Asia/Shanghai,45.619,122.8411,220800
+101060701,Liaoyuan,辽源,CN,China,中国,Jilin,吉林省,Liaoyuan,辽源市,Asia/Shanghai,42.9027,125.1453,220400
+101060801,Songyuan,松原,CN,China,中国,Jilin,吉林省,Songyuan,松原市,Asia/Shanghai,45.1182,124.8236,220700
+101060901,Baishan,白山,CN,China,中国,Jilin,吉林省,Baishan,白山市,Asia/Shanghai,41.9425,126.4278,220600
+101070101,Shenyang,沈阳,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳市,Asia/Shanghai,41.6776,123.4647,210100
+101070201,Dalian,大连,CN,China,中国,Liaoning,辽宁省,Dalian,大连市,Asia/Shanghai,38.9146,121.6186,210200
+101070301,Anshan,鞍山,CN,China,中国,Liaoning,辽宁省,Anshan,鞍山市,Asia/Shanghai,41.1106,122.9956,210300
+101070401,Fushun,抚顺,CN,China,中国,Liaoning,辽宁省,Fushun,抚顺市,Asia/Shanghai,41.8813,123.9571,210400
+101070501,Benxi,本溪,CN,China,中国,Liaoning,辽宁省,Benxi,本溪市,Asia/Shanghai,41.4868,123.685,210500
+101070601,Dandong,丹东,CN,China,中国,Liaoning,辽宁省,Dandong,丹东市,Asia/Shanghai,40.0007,124.3544,210600
+101070701,Jinzhou,锦州,CN,China,中国,Liaoning,辽宁省,Jinzhou,锦州市,Asia/Shanghai,41.1193,121.1357,210700
+101070801,Yingkou,营口,CN,China,中国,Liaoning,辽宁省,Yingkou,营口市,Asia/Shanghai,40.6674,122.2352,210800
+101070901,Fuxin,阜新,CN,China,中国,Liaoning,辽宁省,Fuxin,阜新市,Asia/Shanghai,42.022,121.6701,210900
+101071001,Liaoyang,辽阳,CN,China,中国,Liaoning,辽宁省,Liaoyang,辽阳市,Asia/Shanghai,41.2694,123.1815,211000
+101071101,Tieling,铁岭,CN,China,中国,Liaoning,辽宁省,Tieling,铁岭市,Asia/Shanghai,42.2233,123.7257,211200
+101071201,Chaoyang,朝阳,CN,China,中国,Liaoning,辽宁省,Chaoyang,朝阳市,Asia/Shanghai,41.5768,120.4512,211300
+101071301,Panjin,盘锦,CN,China,中国,Liaoning,辽宁省,Panjin,盘锦市,Asia/Shanghai,40.7196,122.1707,211100
+101071401,Huludao,葫芦岛,CN,China,中国,Liaoning,辽宁省,Huludao,葫芦岛市,Asia/Shanghai,40.711,120.8368,211400
+101080101,Hohhot,呼和浩特,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hohhot,呼和浩特市,Asia/Shanghai,40.8421,111.7488,150100
+101080201,Baotou,包头,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Baotou,包头市,Asia/Shanghai,40.6213,109.9532,150200
+101080301,Wuhai,乌海,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Wuhai,乌海市,Asia/Shanghai,39.6737,106.8256,150300
+101080405,Ulanqab,乌兰察布,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Ulanqab,乌兰察布市,Asia/Shanghai,41.0341,113.1145,150900
+101080501,Tongliao,通辽,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Tongliao,通辽市,Asia/Shanghai,43.6174,122.2631,150500
+101080601,Chifeng,赤峰,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Chifeng,赤峰市,Asia/Shanghai,42.2569,118.8876,150400
+101080701,Ordos,鄂尔多斯,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Ordos,鄂尔多斯市,Asia/Shanghai,39.6087,109.7825,150600
+101080811,Bayannur,巴彦淖尔,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Bayannur,巴彦淖尔市,Asia/Shanghai,40.7574,107.417,150800
+101080902,Xilingol League,锡林郭勒,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Xilingol League,锡林郭勒盟,Asia/Shanghai,43.944,116.091,152500
+101081013,Hulunbuir,呼伦贝尔,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hulunbuir,呼伦贝尔市,Asia/Shanghai,49.1665,119.7785,150700
+101081108,Hinggan League,兴安盟,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Hinggan League,兴安盟,Asia/Shanghai,46.0763,122.0703,152200
+101081213,Alxa League,阿拉善盟,CN,China,中国,Inner Mongolia Autonomous Region,内蒙古自治区,Alxa League,阿拉善盟,Asia/Shanghai,38.8448,105.7064,152900
+101090101,Shijiazhuang,石家庄,CN,China,中国,Hebei,河北省,Shijiazhuang,石家庄市,Asia/Shanghai,38.0455,114.5025,130100
+101090201,Baoding,保定,CN,China,中国,Hebei,河北省,Baoding,保定市,Asia/Shanghai,38.8677,115.4823,130600
+101090301,Zhangjiakou,张家口,CN,China,中国,Hebei,河北省,Zhangjiakou,张家口市,Asia/Shanghai,40.8119,114.8841,130700
+101090402,Chengde,承德,CN,China,中国,Hebei,河北省,Chengde,承德市,Asia/Shanghai,40.9762,117.9392,130800
+101090501,Tangshan,唐山,CN,China,中国,Hebei,河北省,Tangshan,唐山市,Asia/Shanghai,39.6351,118.1754,130200
+101090601,Langfang,廊坊,CN,China,中国,Hebei,河北省,Langfang,廊坊市,Asia/Shanghai,39.5239,116.7044,131000
+101090701,Cangzhou,沧州,CN,China,中国,Hebei,河北省,Cangzhou,沧州市,Asia/Shanghai,38.3106,116.8575,130900
+101090801,Hengshui,衡水,CN,China,中国,Hebei,河北省,Hengshui,衡水市,Asia/Shanghai,37.7351,115.666,131100
+101090901,Xingtai,邢台,CN,China,中国,Hebei,河北省,Xingtai,邢台市,Asia/Shanghai,37.0602,114.4974,130500
+101091001,Handan,邯郸,CN,China,中国,Hebei,河北省,Handan,邯郸市,Asia/Shanghai,36.6123,114.4907,130400
+101091101,Qinhuangdao,秦皇岛,CN,China,中国,Hebei,河北省,Qinhuangdao,秦皇岛市,Asia/Shanghai,39.8882,119.5202,130300
+101091201,Xiong'an,雄安新区,CN,China,中国,Hebei,河北省,Xiong'an New Area,雄安新区,Asia/Shanghai,39.0432,115.8672,133100
+101100101,Taiyuan,太原,CN,China,中国,Shanxi,山西省,Taiyuan,太原市,Asia/Shanghai,37.857,112.5492,140100
+101100201,Datong,大同,CN,China,中国,Shanxi,山西省,Datong,大同市,Asia/Shanghai,40.0971,113.3668,140200
+101100301,Yangquan,阳泉,CN,China,中国,Shanxi,山西省,Yangquan,阳泉市,Asia/Shanghai,37.8612,113.5833,140300
+101100401,Jinzhong,晋中,CN,China,中国,Shanxi,山西省,Jinzhong,晋中市,Asia/Shanghai,37.6965,112.7365,140700
+101100501,Changzhi,长治,CN,China,中国,Shanxi,山西省,Changzhi,长治市,Asia/Shanghai,36.1911,113.1136,140400
+101100601,Jincheng,晋城,CN,China,中国,Shanxi,山西省,Jincheng,晋城市,Asia/Shanghai,35.4976,112.8513,140500
+101100701,Linfen,临汾,CN,China,中国,Shanxi,山西省,Linfen,临汾市,Asia/Shanghai,36.0841,111.518,141000
+101100801,Yuncheng,运城,CN,China,中国,Shanxi,山西省,Yuncheng,运城市,Asia/Shanghai,35.0228,111.004,140800
+101100901,Shuozhou,朔州,CN,China,中国,Shanxi,山西省,Shuozhou,朔州市,Asia/Shanghai,39.3313,112.4334,140600
+101101001,Xinzhou,忻州,CN,China,中国,Shanxi,山西省,Xinzhou,忻州市,Asia/Shanghai,38.4177,112.7335,140900
+101101100,Lyuliang,吕梁,CN,China,中国,Shanxi,山西省,Lüliang,吕梁市,Asia/Shanghai,37.5244,111.1343,141100
+101110101,Xi'an,西安,CN,China,中国,Shaanxi,陕西省,Xi'an,西安市,Asia/Shanghai,34.3432,108.9397,610100
+101110200,Xianyang,咸阳,CN,China,中国,Shaanxi,陕西省,Xianyang,咸阳市,Asia/Shanghai,34.3334,108.7051,610400
+101110300,Yan'an,延安,CN,China,中国,Shaanxi,陕西省,Yan'an,延安市,Asia/Shanghai,36.6501,109.4947,610600
+101110401,Yulin,榆林,CN,China,中国,Shaanxi,陕西省,Yulin,榆林市,Asia/Shanghai,38.2902,109.7412,610800
+101110501,Weinan,渭南,CN,China,中国,Shaanxi,陕西省,Weinan,渭南市,Asia/Shanghai,34.4994,109.5029,610500
+101110601,Shangluo,商洛,CN,China,中国,Shaanxi,陕西省,Shangluo,商洛市,Asia/Shanghai,33.8683,109.9398,611000
+101110701,Ankang,安康,CN,China,中国,Shaanxi,陕西省,Ankang,安康市,Asia/Shanghai,32.6903,109.0293,610900
+101110801,Hanzhong,汉中,CN,China,中国,Shaanxi,陕西省,Hanzhong,汉中市,Asia/Shanghai,33.0777,107.0286,610700
+101110901,Baoji,宝鸡,CN,China,中国,Shaanxi,陕西省,Baoji,宝鸡市,Asia/Shanghai,34.3629,107.2377,610300
+101111001,Tongchuan,铜川,CN,China,中国,Shaanxi,陕西省,Tongchuan,铜川市,Asia/Shanghai,34.9166,108.9796,610200
+101120101,Jinan,济南,CN,China,中国,Shandong,山东省,Jinan,济南市,Asia/Shanghai,36.6521,117.1201,370100
+101120201,Qingdao,青岛,CN,China,中国,Shandong,山东省,Qingdao,青岛市,Asia/Shanghai,36.083,120.3552,370200
+101120301,Zibo,淄博,CN,China,中国,Shandong,山东省,Zibo,淄博市,Asia/Shanghai,36.8149,118.0476,370300
+101120401,Dezhou,德州,CN,China,中国,Shandong,山东省,Dezhou,德州市,Asia/Shanghai,37.454,116.3074,371400
+101120501,Yantai,烟台,CN,China,中国,Shandong,山东省,Yantai,烟台市,Asia/Shanghai,37.4646,121.4478,370600
+101120601,Weifang,潍坊,CN,China,中国,Shandong,山东省,Weifang,潍坊市,Asia/Shanghai,36.7093,119.1071,370700
+101120701,Jining,济宁,CN,China,中国,Shandong,山东省,Jining,济宁市,Asia/Shanghai,35.4154,116.5872,370800
+101120801,Tai'an,泰安,CN,China,中国,Shandong,山东省,Tai'an,泰安市,Asia/Shanghai,36.195,117.1291,370900
+101120901,Linyi,临沂,CN,China,中国,Shandong,山东省,Linyi,临沂市,Asia/Shanghai,35.1038,118.3565,371300
+101121001,Heze,菏泽,CN,China,中国,Shandong,山东省,Heze,菏泽市,Asia/Shanghai,35.2465,115.4694,371700
+101121101,Binzhou,滨州,CN,China,中国,Shandong,山东省,Binzhou,滨州市,Asia/Shanghai,37.3835,118.017,371600
+101121201,Dongying,东营,CN,China,中国,Shandong,山东省,Dongying,东营市,Asia/Shanghai,37.434,118.6746,370500
+101121301,Weihai,威海,CN,China,中国,Shandong,山东省,Weihai,威海市,Asia/Shanghai,37.5097,122.1164,371000
+101121401,Zaozhuang,枣庄,CN,China,中国,Shandong,山东省,Zaozhuang,枣庄市,Asia/Shanghai,34.8109,117.3238,370400
+101121501,Rizhao,日照,CN,China,中国,Shandong,山东省,Rizhao,日照市,Asia/Shanghai,35.4169,119.5269,371100
+101121701,Liaocheng,聊城,CN,China,中国,Shandong,山东省,Liaocheng,聊城市,Asia/Shanghai,36.456,115.9804,371500
+101130101,Urumqi,乌鲁木齐,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Urumqi,乌鲁木齐市,Asia/Shanghai,43.7928,87.6177,650100
+101130201,Karamay,克拉玛依,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Karamay,克拉玛依市,Asia/Shanghai,45.5959,84.8739,650200
+101130401,Changji Prefecture,昌吉,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Changji Hui Autonomous Prefecture,昌吉回族自治州,Asia/Shanghai,44.0146,87.304,652300
+101130501,Turpan,吐鲁番,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Turpan,吐鲁番市,Asia/Shanghai,42.9476,89.1841,650400
+101130609,Bayingolin Prefecture,巴音郭楞,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Bayingolin Mongol Autonomous Prefecture,巴音郭楞蒙古自治州,Asia/Shanghai,41.7686,86.151,652800
+101130801,Aksu Prefecture,阿克苏,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Aksu Prefecture,阿克苏地区,Asia/Shanghai,41.1707,80.2651,652900
+101130901,Kashgar Prefecture,喀什地区,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Kashgar Prefecture,喀什地区,Asia/Shanghai,39.4677,75.9891,653100
+101131012,Ili Prefecture,伊犁,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Ili Kazakh Autonomous Prefecture,伊犁哈萨克自治州,Asia/Shanghai,43.9219,81.3179,654000
+101131101,Tacheng Prefecture,塔城地区,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Tacheng Prefecture,塔城地区,Asia/Shanghai,46.7463,82.984,654200
+101131201,Hami,哈密,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Hami,哈密市,Asia/Shanghai,42.8332,93.5132,650500
+101131301,Hotan Prefecture,和田地区,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Hotan Prefecture,和田地区,Asia/Shanghai,37.1089,79.9275,653200
+101131401,Altay Prefecture,阿勒泰地区,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Altay Prefecture,阿勒泰地区,Asia/Shanghai,47.8489,88.1387,654300
+101131505,Kizilsu Prefecture,克州,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Kizilsu Kyrgyz Autonomous Prefecture,克孜勒苏柯尔克孜自治州,Asia/Shanghai,39.714,76.1768,653000
+101131604,Bortala Prefecture,博尔塔拉,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Bortala Mongol Autonomous Prefecture,博尔塔拉蒙古自治州,Asia/Shanghai,44.9033,82.0748,652700
+101140101,Lhasa,拉萨,CN,China,中国,Tibet Autonomous Region,西藏自治区,Lhasa,拉萨市,Asia/Shanghai,29.6604,91.1322,540100
+101140201,Xigazê,日喀则,CN,China,中国,Tibet Autonomous Region,西藏自治区,Xigazê,日喀则市,Asia/Shanghai,29.2675,88.8851,540200
+101140301,Shannan,山南,CN,China,中国,Tibet Autonomous Region,西藏自治区,Shannan,山南市,Asia/Shanghai,29.236,91.7665,540500
+101140401,Nyingchi,林芝,CN,China,中国,Tibet Autonomous Region,西藏自治区,Linzi,林芝市,Asia/Shanghai,29.6547,94.3624,540400
+101140501,Qamdo,昌都,CN,China,中国,Tibet Autonomous Region,西藏自治区,Qamdo,昌都市,Asia/Shanghai,31.1369,97.1785,540300
+101140601,Nagqu,那曲,CN,China,中国,Tibet Autonomous Region,西藏自治区,Nagqu,那曲市,Asia/Shanghai,31.476,92.0602,540600
+101140701,Ngari Prefecture,阿里地区,CN,China,中国,Tibet Autonomous Region,西藏自治区,Ngari Prefecture,阿里地区,Asia/Shanghai,32.5032,80.1055,542500
+101150101,Xining,西宁,CN,China,中国,Qinghai,青海省,Xining,西宁市,Asia/Shanghai,36.6232,101.7789,630100
+101150207,Haidong,海东,CN,China,中国,Qinghai,青海省,Haidong,海东市,Asia/Shanghai,36.4735,102.4106,630200
+101150305,Huangnan Prefecture,黄南,CN,China,中国,Qinghai,青海省,Huangnan Tibetan Autonomous Prefecture,黄南藏族自治州,Asia/Shanghai,35.5177,102.02,632300
+101150402,Hainan Prefecture,海南,CN,China,中国,Qinghai,青海省,Hainan Tibetan Autonomous Prefecture,海南藏族自治州,Asia/Shanghai,36.2804,100.6195,632500
+101150507,Golog Prefecture,果洛,CN,China,中国,Qinghai,青海省,Golog Tibetan Autonomous Prefecture,果洛藏族自治州,Asia/Shanghai,34.4736,100.2421,632600
+101150601,Yushu Prefecture,玉树州,CN,China,中国,Qinghai,青海省,Yushu Tibetan Autonomous Prefecture,玉树藏族自治州,Asia/Shanghai,33.0041,97.0085,632700
+101150702,Haixi Prefecture,海西,CN,China,中国,Qinghai,青海省,Haixi Mongol and Tibetan Autonomous Prefecture,海西蒙古族藏族自治州,Asia/Shanghai,37.3481,97.332,632800
+101150804,Haibei Prefecture,海北,CN,China,中国,Qinghai,青海省,Haibei Tibetan Autonomous Prefecture,海北藏族自治州,Asia/Shanghai,36.9594,100.9011,632200
+101160101,Lanzhou,兰州,CN,China,中国,Gansu,甘肃省,Lanzhou,兰州市,Asia/Shanghai,36.058,103.8236,620100
+101160201,Dingxi,定西,CN,China,中国,Gansu,甘肃省,Dingxi,定西市,Asia/Shanghai,35.5796,104.6263,621100
+101160301,Pingliang,平凉,CN,China,中国,Gansu,甘肃省,Pingliang,平凉市,Asia/Shanghai,35.5428,106.6847,620800
+101160401,Qingyang,庆阳,CN,China,中国,Gansu,甘肃省,Qingyang,庆阳市,Asia/Shanghai,35.7342,107.6384,621000
+101160501,Wuwei,武威,CN,China,中国,Gansu,甘肃省,Wuwei,武威市,Asia/Shanghai,37.93,102.6347,620600
+101160601,Jinchang,金昌,CN,China,中国,Gansu,甘肃省,Jinchang,金昌市,Asia/Shanghai,38.5142,102.1879,620300
+101160701,Zhangye,张掖,CN,China,中国,Gansu,甘肃省,Zhangye,张掖市,Asia/Shanghai,38.9329,100.4555,620700
+101160801,Jiuquan,酒泉,CN,China,中国,Gansu,甘肃省,Jiuquan,酒泉市,Asia/Shanghai,39.744,98.5108,620900
+101160901,Tianshui,天水,CN,China,中国,Gansu,甘肃省,Tianshui,天水市,Asia/Shanghai,34.5785,105.725,620500
+101161010,Longnan,陇南,CN,China,中国,Gansu,甘肃省,Longnan,陇南市,Asia/Shanghai,33.3886,104.9294,621200
+101161101,Linxia Prefecture,临夏,CN,China,中国,Gansu,甘肃省,Linxia Hui Autonomous Prefecture,临夏回族自治州,Asia/Shanghai,35.5994,103.2116,622900
+101161209,Gannan Prefecture,甘南,CN,China,中国,Gansu,甘肃省,Gannan Tibetan Autonomous Prefecture,甘南藏族自治州,Asia/Shanghai,34.9864,102.911,623000
+101161301,Baiyin,白银,CN,China,中国,Gansu,甘肃省,Baiyin,白银市,Asia/Shanghai,36.5457,104.1736,620400
+101161401,Jiayuguan,嘉峪关,CN,China,中国,Gansu,甘肃省,Jiayuguan,嘉峪关市,Asia/Shanghai,39.7865,98.2773,620200
+101170101,Yinchuan,银川,CN,China,中国,Ningxia Hui Autonomous Region,宁夏回族自治区,Yinchuan,银川市,Asia/Shanghai,38.4664,106.2782,640100
+101170201,Shizuishan,石嘴山,CN,China,中国,Ningxia Hui Autonomous Region,宁夏回族自治区,Shizuishan,石嘴山市,Asia/Shanghai,39.0133,106.3762,640200
+101170301,Wuzhong,吴忠,CN,China,中国,Ningxia Hui Autonomous Region,宁夏回族自治区,Wuzhong,吴忠市,Asia/Shanghai,37.9862,106.1994,640300
+101170401,Guyuan,固原,CN,China,中国,Ningxia Hui Autonomous Region,宁夏回族自治区,Guyuan,固原市,Asia/Shanghai,36.0046,106.2852,640400
+101170501,Zhongwei,中卫,CN,China,中国,Ningxia Hui Autonomous Region,宁夏回族自治区,Zhongwei,中卫市,Asia/Shanghai,37.515,105.1896,640500
+101180101,Zhengzhou,郑州,CN,China,中国,Henan,河南省,Zhengzhou,郑州市,Asia/Shanghai,34.758,113.6654,410100
+101180201,Anyang,安阳,CN,China,中国,Henan,河南省,Anyang,安阳市,Asia/Shanghai,36.1034,114.3525,410500
+101180301,Xinxiang,新乡,CN,China,中国,Henan,河南省,Xinxiang,新乡市,Asia/Shanghai,35.3036,113.9268,410700
+101180401,Xuchang,许昌,CN,China,中国,Henan,河南省,Xuchang,许昌市,Asia/Shanghai,34.023,113.8261,411000
+101180501,Pingdingshan,平顶山,CN,China,中国,Henan,河南省,Pingdingshan,平顶山市,Asia/Shanghai,33.7666,113.1926,410400
+101180601,Xinyang,信阳,CN,China,中国,Henan,河南省,Xinyang,信阳市,Asia/Shanghai,32.1233,114.075,411500
+101180701,Nanyang,南阳,CN,China,中国,Henan,河南省,Nanyang,南阳市,Asia/Shanghai,32.9991,112.5409,411300
+101180801,Kaifeng,开封,CN,China,中国,Henan,河南省,Kaifeng,开封市,Asia/Shanghai,34.7971,114.3414,410200
+101180901,Luoyang,洛阳,CN,China,中国,Henan,河南省,Luoyang,洛阳市,Asia/Shanghai,34.6197,112.4539,410300
+101181001,Shangqiu,商丘,CN,China,中国,Henan,河南省,Shangqiu,商丘市,Asia/Shanghai,34.4371,115.6505,411400
+101181101,Jiaozuo,焦作,CN,China,中国,Henan,河南省,Jiaozuo,焦作市,Asia/Shanghai,35.239,113.2383,410800
+101181201,Hebi,鹤壁,CN,China,中国,Henan,河南省,Hebi,鹤壁市,Asia/Shanghai,35.7482,114.2954,410600
+101181301,Puyang,濮阳,CN,China,中国,Henan,河南省,Puyang,濮阳市,Asia/Shanghai,35.7682,115.0413,410900
+101181401,Zhoukou,周口,CN,China,中国,Henan,河南省,Zhoukou,周口市,Asia/Shanghai,33.6347,114.7012,411600
+101181501,Luohe,漯河,CN,China,中国,Henan,河南省,Luohe,漯河市,Asia/Shanghai,33.5759,114.0264,411100
+101181601,Zhumadian,驻马店,CN,China,中国,Henan,河南省,Zhumadian,驻马店市,Asia/Shanghai,32.9802,114.0247,411700
+101181701,Sanmenxia,三门峡,CN,China,中国,Henan,河南省,Sanmenxia,三门峡市,Asia/Shanghai,34.7773,111.1941,411200
+101190101,Nanjing,南京,CN,China,中国,Jiangsu,江苏省,Nanjing,南京市,Asia/Shanghai,32.0415,118.7674,320100
+101190201,Wuxi,无锡,CN,China,中国,Jiangsu,江苏省,Wuxi,无锡市,Asia/Shanghai,31.4911,120.3119,320200
+101190301,Zhenjiang,镇江,CN,China,中国,Jiangsu,江苏省,Zhenjiang,镇江市,Asia/Shanghai,32.2044,119.4528,321100
+101190401,Suzhou,苏州,CN,China,中国,Jiangsu,江苏省,Suzhou,苏州市,Asia/Shanghai,31.2994,120.6196,320500
+101190501,Nantong,南通,CN,China,中国,Jiangsu,江苏省,Nantong,南通市,Asia/Shanghai,32.0162,120.8646,320600
+101190601,Yangzhou,扬州,CN,China,中国,Jiangsu,江苏省,Yangzhou,扬州市,Asia/Shanghai,32.3932,119.421,321000
+101190701,Yancheng,盐城,CN,China,中国,Jiangsu,江苏省,Yancheng,盐城市,Asia/Shanghai,33.3776,120.14,320900
+101190801,Xuzhou,徐州,CN,China,中国,Jiangsu,江苏省,Xuzhou,徐州市,Asia/Shanghai,34.2042,117.2838,320300
+101190901,Huaian,淮安,CN,China,中国,Jiangsu,江苏省,Huaian,淮安市,Asia/Shanghai,33.5515,119.1132,320800
+101191001,Lianyungang,连云港,CN,China,中国,Jiangsu,江苏省,Lianyungang,连云港市,Asia/Shanghai,34.6,119.1788,320700
+101191101,Changzhou,常州,CN,China,中国,Jiangsu,江苏省,Changzhou,常州市,Asia/Shanghai,31.7728,119.947,320400
+101191201,Taizhou,泰州,CN,China,中国,Jiangsu,江苏省,Taizhou,泰州市,Asia/Shanghai,32.4849,119.9152,321200
+101191301,Suqian,宿迁,CN,China,中国,Jiangsu,江苏省,Suqian,宿迁市,Asia/Shanghai,33.963,118.2752,321300
+101200101,Wuhan,武汉,CN,China,中国,Hubei,湖北省,Wuhan,武汉市,Asia/Shanghai,30.5844,114.2986,420100
+101200201,Xiangyang,襄阳,CN,China,中国,Hubei,湖北省,Xiangyang,襄阳市,Asia/Shanghai,32.0424,112.1442,420600
+101200301,Ezhou,鄂州,CN,China,中国,Hubei,湖北省,Ezhou,鄂州市,Asia/Shanghai,30.3965,114.8906,420700
+101200401,Xiaogan,孝感,CN,China,中国,Hubei,湖北省,Xiaogan,孝感市,Asia/Shanghai,30.9264,113.9267,420900
+101200501,Huanggang,黄冈,CN,China,中国,Hubei,湖北省,Huanggang,黄冈市,Asia/Shanghai,30.4477,114.8794,421100
+101200601,Huangshi,黄石,CN,China,中国,Hubei,湖北省,Huangshi,黄石市,Asia/Shanghai,30.2201,115.077,420200
+101200701,Xianning,咸宁,CN,China,中国,Hubei,湖北省,Xianning,咸宁市,Asia/Shanghai,29.8328,114.329,421200
+101200801,Jingzhou,荆州,CN,China,中国,Hubei,湖北省,Jingzhou,荆州市,Asia/Shanghai,30.3269,112.2381,421000
+101200901,Yichang,宜昌,CN,China,中国,Hubei,湖北省,Yichang,宜昌市,Asia/Shanghai,30.7026,111.2908,420500
+101201001,Enshi Prefecture,恩施州,CN,China,中国,Hubei,湖北省,Enshi Tujia and Miao Autonomous Prefecture,恩施土家族苗族自治州,Asia/Shanghai,30.2831,109.487,422800
+101201101,Shiyan,十堰,CN,China,中国,Hubei,湖北省,Shiyan,十堰市,Asia/Shanghai,32.6469,110.7879,420300
+101201301,Suizhou,随州,CN,China,中国,Hubei,湖北省,Suizhou,随州市,Asia/Shanghai,31.7175,113.3738,421300
+101201401,Jingmen,荆门,CN,China,中国,Hubei,湖北省,Jingmen,荆门市,Asia/Shanghai,31.0354,112.2043,420800
+101210101,Hangzhou,杭州,CN,China,中国,Zhejiang,浙江省,Hangzhou,杭州市,Asia/Shanghai,30.246,120.2108,330100
+101210201,Huzhou,湖州,CN,China,中国,Zhejiang,浙江省,Huzhou,湖州市,Asia/Shanghai,30.8672,120.1024,330500
+101210301,Jiaxing,嘉兴,CN,China,中国,Zhejiang,浙江省,Jiaxing,嘉兴市,Asia/Shanghai,30.7627,120.7509,330400
+101210401,Ningbo,宁波,CN,China,中国,Zhejiang,浙江省,Ningbo,宁波市,Asia/Shanghai,29.8603,121.6245,330200
+101210507,Shaoxing,绍兴,CN,China,中国,Zhejiang,浙江省,Shaoxing,绍兴市,Asia/Shanghai,30.0516,120.5829,330600
+101210601,Taizhou,台州,CN,China,中国,Zhejiang,浙江省,Taizhou,台州市,Asia/Shanghai,28.6614,121.4286,331000
+101210701,Wenzhou,温州,CN,China,中国,Zhejiang,浙江省,Wenzhou,温州市,Asia/Shanghai,28.0006,120.6721,330300
+101210801,Lishui,丽水,CN,China,中国,Zhejiang,浙江省,Lishui,丽水市,Asia/Shanghai,28.452,119.9218,331100
+101210901,Jinhua,金华,CN,China,中国,Zhejiang,浙江省,Jinhua,金华市,Asia/Shanghai,29.0895,119.6495,330700
+101211001,Quzhou,衢州,CN,China,中国,Zhejiang,浙江省,Quzhou,衢州市,Asia/Shanghai,28.9417,118.8726,330800
+101211101,Zhoushan,舟山,CN,China,中国,Zhejiang,浙江省,Zhoushan,舟山市,Asia/Shanghai,29.9856,122.2074,330900
+101220101,Hefei,合肥,CN,China,中国,Anhui,安徽省,Hefei,合肥市,Asia/Shanghai,31.8206,117.2273,340100
+101220201,Bengbu,蚌埠,CN,China,中国,Anhui,安徽省,Bengbu,蚌埠市,Asia/Shanghai,32.9397,117.3632,340300
+101220301,Wuhu,芜湖,CN,China,中国,Anhui,安徽省,Wuhu,芜湖市,Asia/Shanghai,31.3526,118.4331,340200
+101220401,Huainan,淮南,CN,China,中国,Anhui,安徽省,Huainan,淮南市,Asia/Shanghai,32.5854,117.0186,340400
+101220501,Ma'anshan,马鞍山,CN,China,中国,Anhui,安徽省,Ma'anshan,马鞍山市,Asia/Shanghai,31.6894,118.5079,340500
+101220601,Anqing,安庆,CN,China,中国,Anhui,安徽省,Anqing,安庆市,Asia/Shanghai,30.5318,117.1154,340800
+101220701,Suzhou,宿州,CN,China,中国,Anhui,安徽省,Suzhou,宿州市,Asia/Shanghai,33.6339,116.9841,341300
+101220801,Fuyang,阜阳,CN,China,中国,Anhui,安徽省,Fuyang,阜阳市,Asia/Shanghai,32.897,115.8197,341200
+101220901,Bozhou,亳州,CN,China,中国,Anhui,安徽省,Bozhou,亳州市,Asia/Shanghai,33.8693,115.7829,341600
+101221001,Huangshan,黄山,CN,China,中国,Anhui,安徽省,Huangshan,黄山市,Asia/Shanghai,29.7092,118.3173,341000
+101221101,Chuzhou,滁州,CN,China,中国,Anhui,安徽省,Chuzhou,滁州市,Asia/Shanghai,32.2559,118.3334,341100
+101221201,Huaibei,淮北,CN,China,中国,Anhui,安徽省,Huaibei,淮北市,Asia/Shanghai,33.9717,116.7947,340600
+101221301,Tongling,铜陵,CN,China,中国,Anhui,安徽省,Tongling,铜陵市,Asia/Shanghai,30.9299,117.8166,340700
+101221401,Xuancheng,宣城,CN,China,中国,Anhui,安徽省,Xuancheng,宣城市,Asia/Shanghai,30.9457,118.758,341800
+101221501,Lu'an,六安,CN,China,中国,Anhui,安徽省,Lu'an,六安市,Asia/Shanghai,31.7529,116.5077,341500
+101221701,Chizhou,池州,CN,China,中国,Anhui,安徽省,Chizhou,池州市,Asia/Shanghai,30.656,117.4892,341700
+101230101,Fuzhou,福州,CN,China,中国,Fujian,福建省,Fuzhou,福州市,Asia/Shanghai,26.0753,119.3062,350100
+101230201,Xiamen,厦门,CN,China,中国,Fujian,福建省,Xiamen,厦门市,Asia/Shanghai,24.4905,118.1102,350200
+101230301,Ningde,宁德,CN,China,中国,Fujian,福建省,Ningde,宁德市,Asia/Shanghai,26.6592,119.5271,350900
+101230401,Putian,莆田,CN,China,中国,Fujian,福建省,Putian,莆田市,Asia/Shanghai,25.431,119.0076,350300
+101230501,Quanzhou,泉州,CN,China,中国,Fujian,福建省,Quanzhou,泉州市,Asia/Shanghai,24.8745,118.6757,350500
+101230601,Zhangzhou,漳州,CN,China,中国,Fujian,福建省,Zhangzhou,漳州市,Asia/Shanghai,24.5109,117.6618,350600
+101230701,Longyan,龙岩,CN,China,中国,Fujian,福建省,Longyan,龙岩市,Asia/Shanghai,25.0916,117.0298,350800
+101230801,Sanming,三明,CN,China,中国,Fujian,福建省,Sanming,三明市,Asia/Shanghai,26.2654,117.635,350400
+101230901,Nanping,南平,CN,China,中国,Fujian,福建省,Nanping,南平市,Asia/Shanghai,27.3828,118.0813,350700
+101240101,Nanchang,南昌,CN,China,中国,Jiangxi,江西省,Nanchang,南昌市,Asia/Shanghai,28.6765,115.8922,360100
+101240201,Jiujiang,九江,CN,China,中国,Jiangxi,江西省,Jiujiang,九江市,Asia/Shanghai,29.6612,115.9536,360400
+101240301,Shangrao,上饶,CN,China,中国,Jiangxi,江西省,Shangrao,上饶市,Asia/Shanghai,28.4444,117.9712,361100
+101240401,Fuzhou,抚州,CN,China,中国,Jiangxi,江西省,Fuzhou,抚州市,Asia/Shanghai,27.9839,116.3584,361000
+101240501,Yichun,宜春,CN,China,中国,Jiangxi,江西省,Yichun,宜春市,Asia/Shanghai,27.8043,114.3911,360900
+101240601,Ji'an,吉安,CN,China,中国,Jiangxi,江西省,Ji'an,吉安市,Asia/Shanghai,27.1117,114.9864,360800
+101240701,Ganzhou,赣州,CN,China,中国,Jiangxi,江西省,Ganzhou,赣州市,Asia/Shanghai,25.851,114.9403,360700
+101240801,Jingdezhen,景德镇,CN,China,中国,Jiangxi,江西省,Jingdezhen,景德镇市,Asia/Shanghai,29.2926,117.2147,360200
+101240901,Pingxiang,萍乡,CN,China,中国,Jiangxi,江西省,Pingxiang,萍乡市,Asia/Shanghai,27.6587,113.8872,360300
+101241001,Xinyu,新余,CN,China,中国,Jiangxi,江西省,Xinyu,新余市,Asia/Shanghai,27.8108,114.9308,360500
+101241101,Yingtan,鹰潭,CN,China,中国,Jiangxi,江西省,Yingtan,鹰潭市,Asia/Shanghai,28.2386,117.0338,360600
+101250101,Changsha,长沙,CN,China,中国,Hunan,湖南省,Changsha,长沙市,Asia/Shanghai,28.2283,112.9389,430100
+101250201,Xiangtan,湘潭,CN,China,中国,Hunan,湖南省,Xiangtan,湘潭市,Asia/Shanghai,27.8297,112.9441,430300
+101250301,Zhuzhou,株洲,CN,China,中国,Hunan,湖南省,Zhuzhou,株洲市,Asia/Shanghai,27.8358,113.1517,430200
+101250401,Hengyang,衡阳,CN,China,中国,Hunan,湖南省,Hengyang,衡阳市,Asia/Shanghai,26.9004,112.6077,430400
+101250501,Chenzhou,郴州,CN,China,中国,Hunan,湖南省,Chenzhou,郴州市,Asia/Shanghai,25.7936,113.0321,431000
+101250601,Changde,常德,CN,China,中国,Hunan,湖南省,Changde,常德市,Asia/Shanghai,29.0402,111.6913,430700
+101250700,Yiyang,益阳,CN,China,中国,Hunan,湖南省,Yiyang,益阳市,Asia/Shanghai,28.5701,112.355,430900
+101250801,Loudi,娄底,CN,China,中国,Hunan,湖南省,Loudi,娄底市,Asia/Shanghai,27.7281,112.0085,431300
+101250901,Shaoyang,邵阳,CN,China,中国,Hunan,湖南省,Shaoyang,邵阳市,Asia/Shanghai,27.2378,111.4692,430500
+101251001,Yueyang,岳阳,CN,China,中国,Hunan,湖南省,Yueyang,岳阳市,Asia/Shanghai,29.3703,113.1329,430600
+101251101,Zhangjiajie,张家界,CN,China,中国,Hunan,湖南省,Zhangjiajie,张家界市,Asia/Shanghai,29.1274,110.4799,430800
+101251201,Huaihua,怀化,CN,China,中国,Hunan,湖南省,Huaihua,怀化市,Asia/Shanghai,27.5501,109.9782,431200
+101251401,Yongzhou,永州,CN,China,中国,Hunan,湖南省,Yongzhou,永州市,Asia/Shanghai,26.4345,111.608,431100
+101251509,Xiangxi Prefecture,湘西,CN,China,中国,Hunan,湖南省,Xiangxi Tujia and Miao Autonomous Prefecture,湘西土家族苗族自治州,Asia/Shanghai,28.3143,109.7397,433100
+101260101,Guiyang,贵阳,CN,China,中国,Guizhou,贵州省,Guiyang,贵阳市,Asia/Shanghai,26.6467,106.6282,520100
+101260201,Zunyi,遵义,CN,China,中国,Guizhou,贵州省,Zunyi,遵义市,Asia/Shanghai,27.7219,107.0319,520300
+101260301,Anshun,安顺,CN,China,中国,Guizhou,贵州省,Anshun,安顺市,Asia/Shanghai,26.2455,105.9322,520400
+101260413,Qiannan Prefecture,黔南,CN,China,中国,Guizhou,贵州省,Qiannan Buyi and Miao Autonomous Prefecture,黔南布依族苗族自治州,Asia/Shanghai,26.2582,107.5172,522700
+101260506,Qiandongnan Prefecture,黔东南,CN,China,中国,Guizhou,贵州省,Qiandongnan Miao and Dong Autonomous Prefecture,黔东南苗族侗族自治州,Asia/Shanghai,26.5834,107.9775,522600
+101260601,Tongren,铜仁,CN,China,中国,Guizhou,贵州省,Tongren,铜仁市,Asia/Shanghai,27.7183,109.1916,520600
+101260701,Bijie,毕节,CN,China,中国,Guizhou,贵州省,Bijie,毕节市,Asia/Shanghai,27.3017,105.285,520500
+101260803,Liupanshui,六盘水,CN,China,中国,Guizhou,贵州省,Liupanshui,六盘水市,Asia/Shanghai,26.5846,104.8467,520200
+101260906,Qianxinan Prefecture,黔西南,CN,China,中国,Guizhou,贵州省,Qianxinan Buyei and Miao Autonomous Prefecture,黔西南布依族苗族自治州,Asia/Shanghai,25.0881,104.898,522300
+101270101,Chengdu,成都,CN,China,中国,Sichuan,四川省,Chengdu,成都市,Asia/Shanghai,30.573,104.0663,510100
+101270201,Panzhihua,攀枝花,CN,China,中国,Sichuan,四川省,Panzhihua,攀枝花市,Asia/Shanghai,26.5804,101.716,510400
+101270301,Zigong,自贡,CN,China,中国,Sichuan,四川省,Zigong,自贡市,Asia/Shanghai,29.3528,104.7734,510300
+101270401,Mianyang,绵阳,CN,China,中国,Sichuan,四川省,Mianyang,绵阳市,Asia/Shanghai,31.4677,104.6791,510700
+101270501,Nanchong,南充,CN,China,中国,Sichuan,四川省,Nanchong,南充市,Asia/Shanghai,30.8372,106.1106,511300
+101270601,Dazhou,达州,CN,China,中国,Sichuan,四川省,Dazhou,达州市,Asia/Shanghai,31.2095,107.5023,511700
+101270701,Suining,遂宁,CN,China,中国,Sichuan,四川省,Suining,遂宁市,Asia/Shanghai,30.5133,105.5713,510900
+101270801,Guang'an,广安,CN,China,中国,Sichuan,四川省,Guang'an,广安市,Asia/Shanghai,30.4564,106.6334,511600
+101270901,Bazhong,巴中,CN,China,中国,Sichuan,四川省,Bazhong,巴中市,Asia/Shanghai,31.8588,106.7537,511900
+101271001,Luzhou,泸州,CN,China,中国,Sichuan,四川省,Luzhou,泸州市,Asia/Shanghai,28.8891,105.4434,510500
+101271101,Yibin,宜宾,CN,China,中国,Sichuan,四川省,Yibin,宜宾市,Asia/Shanghai,28.7602,104.6308,511500
+101271201,Neijiang,内江,CN,China,中国,Sichuan,四川省,Neijiang,内江市,Asia/Shanghai,29.5871,105.0661,511000
+101271301,Ziyang,资阳,CN,China,中国,Sichuan,四川省,Ziyang,资阳市,Asia/Shanghai,30.1222,104.6419,512000
+101271401,Leshan,乐山,CN,China,中国,Sichuan,四川省,Leshan,乐山市,Asia/Shanghai,29.582,103.7613,511100
+101271501,Meishan,眉山,CN,China,中国,Sichuan,四川省,Meishan,眉山市,Asia/Shanghai,30.0483,103.8318,511400
+101271601,Liangshan Prefecture,凉山,CN,China,中国,Sichuan,四川省,Liangshan Yi Autonomous Prefecture,凉山彝族自治州,Asia/Shanghai,27.8868,102.2587,513400
+101271701,Ya'an,雅安,CN,China,中国,Sichuan,四川省,Ya'an,雅安市,Asia/Shanghai,29.9877,103.001,511800
+101271801,Garze Prefecture,甘孜,CN,China,中国,Sichuan,四川省,Garze Tibetan Autonomous Prefecture,甘孜藏族自治州,Asia/Shanghai,30.0507,101.9638,513300
+101271901,Aba Prefecture,阿坝,CN,China,中国,Sichuan,四川省,Aba Tibetan and Qiang Autonomous Prefecture,阿坝藏族羌族自治州,Asia/Shanghai,31.8998,102.2214,513200
+101272001,Deyang,德阳,CN,China,中国,Sichuan,四川省,Deyang,德阳市,Asia/Shanghai,31.128,104.3987,510600
+101272101,Guangyuan,广元,CN,China,中国,Sichuan,四川省,Guangyuan,广元市,Asia/Shanghai,32.4337,105.8298,510800
+101280101,Guangzhou,广州,CN,China,中国,Guangdong,广东省,Guangzhou,广州市,Asia/Shanghai,23.1252,113.2806,440100
+101280201,Shaoguan,韶关,CN,China,中国,Guangdong,广东省,Shaoguan,韶关市,Asia/Shanghai,24.8013,113.5915,440200
+101280301,Huizhou,惠州,CN,China,中国,Guangdong,广东省,Huizhou,惠州市,Asia/Shanghai,23.0794,114.4126,441300
+101280401,Meizhou,梅州,CN,China,中国,Guangdong,广东省,Meizhou,梅州市,Asia/Shanghai,24.2991,116.1176,441400
+101280501,Shantou,汕头,CN,China,中国,Guangdong,广东省,Shantou,汕头市,Asia/Shanghai,23.371,116.7085,440500
+101280601,Shenzhen,深圳,CN,China,中国,Guangdong,广东省,Shenzhen,深圳市,Asia/Shanghai,22.547,114.0859,440300
+101280701,Zhuhai,珠海,CN,China,中国,Guangdong,广东省,Zhuhai,珠海市,Asia/Shanghai,22.2716,113.5769,440400
+101280800,Foshan,佛山,CN,China,中国,Guangdong,广东省,Foshan,佛山市,Asia/Shanghai,23.0288,113.1227,440600
+101280901,Zhaoqing,肇庆,CN,China,中国,Guangdong,广东省,Zhaoqing,肇庆市,Asia/Shanghai,23.0515,112.4725,441200
+101281001,Zhanjiang,湛江,CN,China,中国,Guangdong,广东省,Zhanjiang,湛江市,Asia/Shanghai,21.2749,110.365,440800
+101281101,Jiangmen,江门,CN,China,中国,Guangdong,广东省,Jiangmen,江门市,Asia/Shanghai,22.5904,113.0949,440700
+101281201,Heyuan,河源,CN,China,中国,Guangdong,广东省,Heyuan,河源市,Asia/Shanghai,23.7463,114.6978,441600
+101281301,Qingyuan,清远,CN,China,中国,Guangdong,广东省,Qingyuan,清远市,Asia/Shanghai,23.685,113.0512,441800
+101281401,Yunfu,云浮,CN,China,中国,Guangdong,广东省,Yunfu,云浮市,Asia/Shanghai,22.9298,112.0444,445300
+101281501,Chaozhou,潮州,CN,China,中国,Guangdong,广东省,Chaozhou,潮州市,Asia/Shanghai,23.6617,116.6323,445100
+101281601,Dongguan,东莞,CN,China,中国,Guangdong,广东省,Dongguan,东莞市,Asia/Shanghai,23.0462,113.7463,441900
+101281701,Zhongshan,中山,CN,China,中国,Guangdong,广东省,Zhongshan,中山市,Asia/Shanghai,22.5211,113.3824,442000
+101281801,Yangjiang,阳江,CN,China,中国,Guangdong,广东省,Yangjiang,阳江市,Asia/Shanghai,21.8592,111.9751,441700
+101281901,Jieyang,揭阳,CN,China,中国,Guangdong,广东省,Jieyang,揭阳市,Asia/Shanghai,23.5438,116.3557,445200
+101282001,Maoming,茂名,CN,China,中国,Guangdong,广东省,Maoming,茂名市,Asia/Shanghai,21.6598,110.9192,440900
+101282101,Shanwei,汕尾,CN,China,中国,Guangdong,广东省,Shanwei,汕尾市,Asia/Shanghai,22.7745,115.3642,441500
+101290101,Kunming,昆明,CN,China,中国,Yunnan,云南省,Kunming,昆明市,Asia/Shanghai,24.8815,102.8337,530100
+101290201,Dali Prefecture,大理州,CN,China,中国,Yunnan,云南省,Dali Bai Autonomous Prefecture,大理白族自治州,Asia/Shanghai,25.5895,100.2257,532900
+101290301,Honghe Prefecture,红河,CN,China,中国,Yunnan,云南省,Honghe Hani and Yi Autonomous Prefecture,红河哈尼族彝族自治州,Asia/Shanghai,23.3668,103.3842,532500
+101290401,Qujing,曲靖,CN,China,中国,Yunnan,云南省,Qujing,曲靖市,Asia/Shanghai,25.5016,103.7979,530300
+101290501,Baoshan,保山,CN,China,中国,Yunnan,云南省,Baoshan,保山市,Asia/Shanghai,25.1118,99.1671,530500
+101290601,Wenshan Prefecture,文山州,CN,China,中国,Yunnan,云南省,Wenshan Zhuang and Miao Autonomous Prefecture,文山壮族苗族自治州,Asia/Shanghai,23.3695,104.244,532600
+101290701,Yuxi,玉溪,CN,China,中国,Yunnan,云南省,Yuxi,玉溪市,Asia/Shanghai,24.3505,102.5439,530400
+101290801,Chuxiong Prefecture,楚雄州,CN,China,中国,Yunnan,云南省,Chuxiong Yi Autonomous Prefecture,楚雄彝族自治州,Asia/Shanghai,25.042,101.546,532300
+101290901,Pu'er City,普洱,CN,China,中国,Yunnan,云南省,Pu'er City,普洱市,Asia/Shanghai,22.8252,100.966,530800
+101291001,Zhaotong,昭通,CN,China,中国,Yunnan,云南省,Zhaotong,昭通市,Asia/Shanghai,27.337,103.7172,530600
+101291101,Lincang,临沧,CN,China,中国,Yunnan,云南省,Lincang,临沧市,Asia/Shanghai,23.8866,100.087,530900
+101291201,Nujiang Prefecture,怒江,CN,China,中国,Yunnan,云南省,Nujiang Lisu Autonomous Prefecture,怒江傈僳族自治州,Asia/Shanghai,25.8509,98.8543,533300
+101291305,Diqing Prefecture,迪庆,CN,China,中国,Yunnan,云南省,Diqing Tibetan Autonomous Prefecture,迪庆藏族自治州,Asia/Shanghai,27.8269,99.7065,533400
+101291401,Lijiang,丽江,CN,China,中国,Yunnan,云南省,Lijiang,丽江市,Asia/Shanghai,26.8721,100.233,530700
+101291501,Dehong Prefecture,德宏,CN,China,中国,Yunnan,云南省,Dehong Dai and Jingpo Autonomous Prefecture,德宏傣族景颇族自治州,Asia/Shanghai,24.4367,98.5784,533100
+101291602,Xishuangbanna Prefecture,西双版纳,CN,China,中国,Yunnan,云南省,Xishuangbanna Dai Autonomous Prefecture,西双版纳傣族自治州,Asia/Shanghai,22.0017,100.7979,532800
+101300101,Nanning,南宁,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Nanning,南宁市,Asia/Shanghai,22.824,108.32,450100
+101300201,Chongzuo,崇左,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Chongzuo,崇左市,Asia/Shanghai,22.4041,107.3539,451400
+101300301,Liuzhou,柳州,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Liuzhou,柳州市,Asia/Shanghai,24.3146,109.4117,450200
+101300401,Laibin,来宾,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Laibin,来宾市,Asia/Shanghai,23.7338,109.2298,451300
+101300501,Guilin,桂林,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Guilin,桂林市,Asia/Shanghai,25.2356,110.1798,450300
+101300601,Wuzhou,梧州,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Wuzhou,梧州市,Asia/Shanghai,23.4748,111.2976,450400
+101300701,Hezhou,贺州,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Hezhou,贺州市,Asia/Shanghai,24.4141,111.5521,451100
+101300801,Guigang,贵港,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Guigang,贵港市,Asia/Shanghai,23.0936,109.6021,450800
+101300901,Yulin,玉林,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Yulin,玉林市,Asia/Shanghai,22.6314,110.1544,450900
+101301001,Baise,百色,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Baise,百色市,Asia/Shanghai,23.8977,106.6163,451000
+101301101,Qinzhou,钦州,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Qinzhou,钦州市,Asia/Shanghai,21.9671,108.6242,450700
+101301201,Hechi,河池,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Hechi,河池市,Asia/Shanghai,24.6959,108.0621,451200
+101301301,Beihai,北海,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Beihai,北海市,Asia/Shanghai,21.4733,109.1193,450500
+101301401,Fangchenggang,防城港,CN,China,中国,Guangxi Zhuang Autonomous Region,广西壮族自治区,Fangchenggang,防城港市,Asia/Shanghai,21.6867,108.3547,450600
+101310101,Haikou,海口,CN,China,中国,Hainan,海南省,Haikou,海口市,Asia/Shanghai,20.0458,110.1984,460100
+101310201,Sanya,三亚,CN,China,中国,Hainan,海南省,Sanya,三亚市,Asia/Shanghai,18.2479,109.5083,460200
+101310205,Danzhou,儋州,CN,China,中国,Hainan,海南省,Zhanzhou,儋州市,Asia/Shanghai,19.5175,109.5768,460400
+101310301,Sansha,三沙,CN,China,中国,Hainan,海南省,Sansha,三沙市,Asia/Shanghai,16.831,112.3488,460300
+101320101,Hong Kong,香港,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.307,114.177,810000
+101320103,New Territories,新界,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.381,114.188,810000
+14606,Yau Tsim Mong,油尖旺,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.309,114.171,810000
+1B6D3,Eastern District,东区,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.283,114.217,810000
+1D255,Central and Western District,中西区,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.286,114.146,810000
+1DC87,Tuen Mun,屯门,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.399,113.975,810000
+275A5,Tai Po,大埔,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.452,114.166,810000
+28FE1,Sham Shui Po,深水埗,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.334,114.154,810000
+2BBD1,Kowloon City,九龙城,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.325,114.187,810000
+2BC09,Kwai Tsing,葵青,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.359,114.129,810000
+39CD9,Yuen Long,元朗,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.443,114.027,810000
+407DA,Wan Chai,湾仔,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.277,114.179,810000
+4622E,Sai Kung,西贡,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.31,114.258,810000
+55E7E,Sha Tin,沙田,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.377,114.18,810000
+8A9CA,Kwun Tong,观塘,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.318,114.215,810000
+8E1C5,North District,北区,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.5,114.133,810000
+9173,Islands District,离岛,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.279,113.943,810000
+D5EC3,Wong Tai Sin,黄大仙,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.34,114.195,810000
+DD9B5,Tsuen Wan,荃湾,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.371,114.114,810000
+E87DC,Southern District,南区,HK,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Hong Kong SAR,香港特别行政区,Asia/Hong_Kong,22.25,114.167,810000
+101330101,Macao,澳门,MO,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Asia/Macau,22.202,113.544,820000
+101330102,Taipa Island,氹仔岛,MO,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Asia/Macau,22.1607,113.5826,820000
+101330103,Coloane Island,路环岛,MO,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Asia/Macau,22.1327,113.5723,820000
+1444B,Cotai,路凼城,MO,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Asia/Macau,22.145,113.564,820000
+2E3F1,Saint Lawrence Parish,风顺堂区,MO,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Asia/Macau,22.189,113.534,820000
+4B3A7,Taipa,嘉模堂区,MO,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Asia/Macau,22.157,113.56,820000
+5102,Saint Lazarus Parish,望德堂区,MO,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Asia/Macau,22.2,113.549,820000
+7C47E,Cathedral Parish,大堂区,MO,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Asia/Macau,22.191,113.547,820000
+83145,Coloane,圣方济各堂区,MO,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Asia/Macau,22.117,113.552,820000
+AEF10,Saint Anthony Parish,花王堂区,MO,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Asia/Macau,22.201,113.542,820000
+D3B7A,Our Lady of Fatima Parish,花地玛堂区,MO,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Macao SAR,澳门特别行政区,Asia/Macau,22.211,113.548,820000
+101231001,Diaoyu Islands,钓鱼岛,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan County,宜兰县,Asia/Taipei,25.7428,123.4777,710000
+101340101,Taipei,台北,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,25.0375,121.5637,710000
+101340102,Taoyuan,桃园,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,24.998,121.306,710000
+101340103,Hsinchu,新竹,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu,新竹市,Asia/Taipei,24.809,120.958,710000
+101340104,Yilan,宜兰市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan,宜兰县,Asia/Taipei,24.757,121.741,710000
+101340201,Kaohsiung,高雄,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.619,120.276,710000
+101340202,Chiayi,嘉义市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi City,嘉义市,Asia/Taipei,23.487,120.441,710000
+101340203,Tainan,台南市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.004,120.2,710000
+101340204,Taitung,台东市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taidong,台东县,Asia/Taipei,22.764,121.151,710000
+101340205,Pingtung,屏东市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung,屏东县,Asia/Taipei,22.682,120.485,710000
+101340401,Taichung,台中市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.144,120.67,710000
+101340402,Miaoli,苗栗市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli,苗栗县,Asia/Taipei,24.558,120.812,710000
+101340403,Changhua,彰化市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua,彰化县,Asia/Taipei,24.077,120.535,710000
+101340404,Nantou,南投市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou,南投县,Asia/Taipei,23.916,120.685,710000
+101340405,Hualien,花莲市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,23.983,121.603,710000
+1064D,Laiyi Township,来义乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.502,120.686,710000
+1131A,Nansi District,楠西区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.1793,120.485,710000
+125A0,Dongshan Township,冬山乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan County,宜兰县,Asia/Taipei,24.642,121.76,710000
+12705,Houli District,后里区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.322,120.697,710000
+12AC3,Niaosong District,鸟松区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.6612,120.372,710000
+1353E,Linkou District,林口区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.1017,121.3631,710000
+14A62,Taiping District,太平区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.13,120.712,710000
+14B6,Xiulin Township,秀林乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,24.124,121.481,710000
+15F5F,Guanshan Township,关山镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,23.038,121.177,710000
+15FC8,Zhongzheng District,中正区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,25.0317,121.5164,710000
+16946,West Central District,中西区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,22.9965,120.194,710000
+1851B,Puzi City,朴子市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.446,120.254,710000
+1860C,Lingya District,苓雅区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.6236,120.317,710000
+198CA,Emei Township,峨眉乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.678,121.011,710000
+1A131,Yingge District,莺歌区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,24.956,121.355,710000
+1AFB5,Fengbin Township,丰滨乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,23.585,121.494,710000
+1BD97,Daan Waipu Area,大安区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.38,120.587,710000
+1C2F9,Beinan Township,卑南乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,22.765,121.002,710000
+1C370,Qingshui District,清水区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.279,120.601,710000
+1CB96,Sanxia District,三峽区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,24.9347,121.3708,710000
+1D33,Maolin District,茂林区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.9274,120.746,710000
+1EA6F,Gaoshu Township,高树乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.81,120.602,710000
+1ECA0,Jiuru Township,九如乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.732,120.484,710000
+1F7E2,Ren'ai Township,仁爱乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou County,南投县,Asia/Taipei,24.029,121.145,710000
+1F906,Shenkeng District,深坑区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.0033,121.6172,710000
+1FCAC,Alian District,阿莲区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.8833,120.3333,710000
+22E50,Wuri District,乌日区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.108,120.625,710000
+2008A,Dongshi Township,东势乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.469,120.174,710000
+2045E,Shengang Township,伸港乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,24.164,120.487,710000
+215EB,Shilin District,士林区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,25.0833,121.517,710000
+232B2,Longjing District,龙井区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.192,120.545,710000
+25B67,Wujie Township,五结乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan County,宜兰县,Asia/Taipei,24.689,121.806,710000
+27297,Puxin Township,埔心乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.953,120.534,710000
+274A6,Dadu District,大肚区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.153,120.54,710000
+2787E,Tianliao District,田寮区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.8651,120.39,710000
+2897F,Shuilin Township,水林乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.562,120.235,710000
+28C50,Luzhu District,芦竹区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,25.084,121.268,710000
+2A0EA,Zhuqi Township,竹崎乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.504,120.597,710000
+2A17C,Pingzhen District,平镇区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,24.9458,121.2395,710000
+2A7A9,Ziguan District,梓官区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.7491,120.255,710000
+2ADEC,Nanhua District,南化区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.0435,120.477,710000
+2B8F1,Guantian District,官田区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.1833,120.3333,710000
+2BD74,Mudan Township,牡丹乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.155,120.817,710000
+2BF61,Tucheng District,土城区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,24.9667,121.433,710000
+2CA40,Nuannuan District,暖暖区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Keelung City,基隆市,Asia/Taipei,25.101,121.681,710000
+2CEDF,Xinpu Township,新埔镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.841,121.094,710000
+2DD33,Kouhu Township,口湖乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.554,120.141,710000
+2DF8D,Guanmiao District,关庙区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,22.9597,120.3278,710000
+2E301,Changbin Township,长滨乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,23.335,121.426,710000
+2F677,Pitou Township,埤头乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.883,120.468,710000
+300A2,Xiangshan Distric,香山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu City,新竹市,Asia/Taipei,24.735,120.909,710000
+30712,Rende District,仁德区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,22.9667,120.25,710000
+30EB5,Su'ao Township,苏澳镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan County,宜兰县,Asia/Taipei,24.555,121.835,710000
+33D54,Haiduan Township,海端乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,23.115,121.018,710000
+34272,Beitou District,北投区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,25.1167,121.5,710000
+34B85,Alishan Township,阿里山乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.441,120.76,710000
+3561E,Tai'an Township,泰安乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.419,121.068,710000
+35EA,Changzhi Township,长治乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.695,120.556,710000
+36039,Zhonghe District,中和区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,24.9972,121.5042,710000
+36375,Jiji Township,集集镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou County,南投县,Asia/Taipei,23.837,120.785,710000
+37981,Dacun Township,大村乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.992,120.559,710000
+394EA,Nanzih District,楠梓区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.7268,120.2975,710000
+3981F,Wenshan District,文山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,24.9897,121.5722,710000
+39A9E,Ruifang District,瑞芳区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.1167,121.8,710000
+3A2F4,Manzhou Township,满州乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.049,120.844,710000
+3A428,Anping District,安平区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,22.9935,120.1649,710000
+3B30D,Dali District,大里区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.111,120.675,710000
+3B81C,Zhongpu Township,中埔乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.404,120.537,710000
+3BD59,Beitun District,北屯区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.185,120.709,710000
+3D16B,Liujiao Township,六脚乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.51,120.271,710000
+3EC6B,Lunbei Township,仑背乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.779,120.334,710000
+3ED2D,Ershui Township,二水乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.809,120.629,710000
+3FC8E,Cigu District,七股区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.1197,120.1033,710000
+4297D,Bade District,八德区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,24.93,121.84,710000
+42F72,Xikou Township,溪口乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.594,120.401,710000
+42F75,Checheng Township,车城乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.079,120.743,710000
+43E4E,Ligang Township,里港乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.799,120.506,710000
+441DA,Xihu Township,西湖乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.952,120.483,710000
+442FB,Taoyuan District,桃源区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,23.2388,120.834,710000
+44BA1,Meishan Township,梅山乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.555,120.639,710000
+44BC2,Tanzi District,潭子区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.21,120.707,710000
+4515E,Shitan Township,狮潭乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.52,120.921,710000
+46843,Dacheng Township,大城乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.859,120.295,710000
+4786,Kanding Township,崁顶乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.515,120.501,710000
+485D2,Annan District,安南区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.0473,120.1847,710000
+48D19,Yongkang District,永康区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.0167,120.25,710000
+490B9,Fuxing District,复兴区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,24.822,121.351,710000
+4A86F,Gukeng Township,古坑乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.626,120.612,710000
+4A9E4,Qidu District,七堵区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Keelung City,基隆市,Asia/Taipei,25.126,121.431,710000
+4B6DC,Xihu Township,西湖乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.542,120.761,710000
+4CA1B,Hemei Township,和美镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,24.114,120.511,710000
+4D0CD,Meinong District,美浓区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.9,120.54,710000
+4D45B,Zhongshan District,中山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Keelung City,基隆市,Asia/Taipei,25.151,121.73,710000
+4D55F,Mingjian Township,名间乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou County,南投县,Asia/Taipei,23.851,120.677,710000
+4D572,Jiali District,佳里区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.17,120.178,710000
+4E71A,Yangmei District,杨梅区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,24.54,121.08,710000
+4E999,Fanlu Township,番路乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.428,120.608,710000
+4EB49,Taibao,太保市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.45,120.3333,710000
+4EE12,South District,南区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,22.9616,120.191,710000
+4F7B8,Shulin District,樹林区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,24.99,121.41,710000
+4FB12,Yuanshan Township,员山乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan County,宜兰县,Asia/Taipei,24.742,121.661,710000
+4FC38,Dongshan District,东山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.2852,120.433,710000
+5029C,Tuku Township,土库镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.691,120.365,710000
+503D8,Mailiao Township,麦寮乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.788,120.244,710000
+50460,Bali District,八里区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.15,121.4,710000
+50886,Yongjing Township,永靖乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.921,120.542,710000
+52116,Jiaoxi Township,礁溪乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan County,宜兰县,Asia/Taipei,24.812,121.735,710000
+522A8,Yong'an District,永安区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.8227,120.227,710000
+528C1,Jinfeng Township,金峰乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,22.582,120.857,710000
+5327F,Guishan District,龟山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,25.001,121.95,710000
+53937,Guoxing Township,国姓乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou County,南投县,Asia/Taipei,24.031,120.867,710000
+53C0D,Ludao Township,绿岛乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,22.66,121.49,710000
+545BD,Dahu Township,大湖乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.394,120.863,710000
+55AF3,Tianzhong Township,田中镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.857,120.59,710000
+56FB2,Fangyuan Township,芳苑乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.958,120.341,710000
+5A624,Jinshan District,金山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.2168,121.6008,710000
+5B01A,Budai Township,布袋镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.375,120.177,710000
+5B14E,Yanchao District,燕巢区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.7893,120.369,710000
+5D1AC,Liouying District,柳营区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.2783,120.3175,710000
+5DCD0,Zhutian Township,竹田乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.59,120.528,710000
+5DE8A,Pingxi District,平渓区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.0258,121.7391,710000
+5F054,Citong Township,莿桐乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.77,120.529,710000
+5F767,Dounan Township,斗南镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.671,120.482,710000
+5FA11,Xinyi District,信义区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Keelung City,基隆市,Asia/Taipei,25.126,121.773,710000
+5FFC8,Taimali Township,太麻里乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,22.592,120.98,710000
+601C9,Yujing District,玉井区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.1167,120.467,710000
+60301,Xinfeng Township,新丰乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.907,120.995,710000
+607B7,Yizhu Township,义竹乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.346,120.224,710000
+60C6E,Lujhu District,路竹区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.855,120.265,710000
+6149A,Chishang Township,池上乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,23.093,121.218,710000
+618B3,Wanli District,万里区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.1675,121.6394,710000
+62622,Guanyin District,观音区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,25.036,121.081,710000
+62C94,Shimen District,石门区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.2686,121.5714,710000
+640E,Jiangjun District,将军区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.2111,120.126,710000
+64722,Dapu Township,大埔乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.289,120.59,710000
+64DF4,Cianjin District,前金区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.6288,120.295,710000
+65449,Sigang District,西港区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.1226,120.203,710000
+65B59,South District,南区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.121,120.664,710000
+6781C,Shizi Township,狮子乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.261,120.736,710000
+685A4,Linyuan District,林园区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.5071,120.3949,710000
+687D9,Ji'an Township,吉安乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,23.956,121.565,710000
+69041,Daliao District,大寮区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.5963,120.414,710000
+6946C,Cishan District,旗山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.868,120.474,710000
+69C7D,Ruisui Township,瑞穗乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,23.515,121.409,710000
+6A009,Xizhi District,汐止区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.0667,121.6667,710000
+6C288,Chaozhou Township,潮州镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.537,120.557,710000
+6D813,Jiadong Township,佳冬乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.43,120.548,710000
+6DB7C,West District,西区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.144,120.665,710000
+6F1CA,Sanwan Township,三湾乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.636,120.953,710000
+6F8E8,Yanshuei District,盐水区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.3052,120.243,710000
+707A5,Xingang Township,新港乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.546,120.348,710000
+71A41,Nan'ao Township,南澳乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan County,宜兰县,Asia/Taipei,24.441,121.665,710000
+72D3F,Pinglin District,坪林区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,24.9244,121.7267,710000
+7412D,Hengshan Township,横山乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.708,121.147,710000
+74604,Nangang District,南港区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,25.0533,121.6074,710000
+74A65,Shanlin District,杉林区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,23.0004,120.563,710000
+75272,Central District,中区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.142,120.681,710000
+7527B,Longci District,龙崎区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,22.9546,120.383,710000
+753A2,Magong,马公市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Penghu,澎湖县,Asia/Taipei,23.5667,119.5833,710000
+77487,Wanrong Township,万荣乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,23.715,121.317,710000
+77836,Hengchun Township,恒春镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,21.985,120.763,710000
+77922,Da'an District,大安区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,25.0264,121.5344,710000
+77B7,Dajia District,大甲区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.344,120.623,710000
+786AD,Dashu District,大树区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.6934,120.4331,710000
+78C5D,Puli Township,埔里镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou County,南投县,Asia/Taipei,23.979,120.963,710000
+79754,New Taipei City,新北市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.012,121.4657,710000
+7AC15,Toucheng Township,头城镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan County,宜兰县,Asia/Taipei,24.902,121.843,710000
+7AC37,Cijin District,旗津区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.5874,120.2879,710000
+7AD1B,East District,东区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.137,120.697,710000
+7B4D7,Baihe District,白河区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.3336,120.4588,710000
+7CD4B,Zhuolan Township,卓兰镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.325,120.856,710000
+7CE62,Xincheng Township,新城乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,24.056,121.614,710000
+70E52,Baoshan Township,宝山乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.737,120.999,710000
+7E91B,Madou District,麻豆区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.1833,120.25,710000
+7EF65,Cianjhen District,前镇区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.6006,120.315,710000
+7F2B8,Hunei District,湖内区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.895,120.225,710000
+7F7CD,Shigang District,石冈区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.282,120.77,710000
+81AE3,Syuejia District,学甲区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.2548,120.177,710000
+82644,Fangshan Township,枋山乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.258,120.657,710000
+8296C,Wanhua District,万華区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,25.0333,121.483,710000
+83F45,Caotun Township,草屯镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou County,南投县,Asia/Taipei,23.983,120.732,710000
+849C0,Puyan Township,埔盐乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.992,120.46,710000
+8647F,Jianshi Township,尖石乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.595,121.282,710000
+86861,Xiushui Township,秀水乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,24.033,120.504,710000
+86AEC,Erlin Township,二林镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.916,120.404,710000
+87DA,Beidou Township,北斗镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.867,120.534,710000
+884E,Douliu City,斗六市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.706,120.56,710000
+88DAC,Xitun District,西屯区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.16,120.64,710000
+89FCB,Yancheng District,盐埕区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.6333,120.3,710000
+8A667,Dayuan District,大园区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,25.0622,121.197,710000
+8B37C,Wugu District,五股区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.0809,121.4364,710000
+8C73A,Linnei Township,林内乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.756,120.615,710000
+8D63C,Zhutang Township,竹塘乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.851,120.414,710000
+8E183,Gangshan District,冈山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.8,120.2833,710000
+8E9AA,Wandan Township,万丹乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.588,120.477,710000
+8ECB0,Sandimen Township,三地门乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.798,120.687,710000
+96E31,Zhudong Township,竹东镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.731,121.075,710000
+92813,Gongguan Township,公馆乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.503,120.851,710000
+93143,Nanzhou Township,南州乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.48,120.518,710000
+9346C,Neimen District,内门区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.9518,120.468,710000
+95178,Xinshe District,新社区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.12,120.662,710000
+954F5,Yuanli Township,苑里镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.411,120.688,710000
+955CC,Xinying District,新营区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.3083,120.3139,710000
+95B3C,Sanchong District,三重区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.0613,121.4944,710000
+96121,Daren Township,达仁乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,22.385,120.835,710000
+963DA,Wutai Township,雾台乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.76,120.801,710000
+97619,Luye Township,鹿野乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,22.952,121.157,710000
+97B1A,Houlong Township,后龙镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.617,120.779,710000
+97F69,Xianxi Township,线西乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,24.132,120.454,710000
+98DE7,Dapi Township,大埤乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.646,120.425,710000
+98EF7,Danei District,大内区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.1423,120.398,710000
+9AB11,Taixi Township,台西乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.716,120.206,710000
+9B388,North District,北区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.0109,120.207,710000
+9B92A,Wulai District,乌来区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,24.8667,121.55,710000
+9C6B3,Wang'an Township,望安乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Penghu County,澎湖县,Asia/Taipei,23.337,119.518,710000
+9D3E5,Yonghe District,永和区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.0075,121.5164,710000
+9DAAA,Shanshang District,山上区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.0913,120.369,710000
+9DD7F,Xizhou Township,溪州乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.827,120.522,710000
+9E358,Sinhua District,新化区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.0383,120.3108,710000
+9E5DD,Fenyuan Township,芬园乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,24.006,120.629,710000
+9F928,Shetou Township,社头乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.905,120.602,710000
+A033A,Songshan District,松山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,25.0592,121.559,710000
+A06E6,Huxi Township,湖西乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Penghu County,澎湖县,Asia/Taipei,23.574,119.645,710000
+A3EFD,Anding District,安定区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.0993,120.2272,710000
+A503E,Tongxiao Township,通霄镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.486,120.714,710000
+A7AA7,Liouguei District,六龟区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.997,120.648,710000
+A7B14,Wufeng District,雾峰区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.051,120.68,710000
+A9903,Tianwei Township,田尾乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.901,120.522,710000
+A9A12,Lanyu Township,兰屿乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,22.046,121.551,710000
+A9C2C,Xinyuan Township,新园乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.517,120.45,710000
+A9E1,Keelung,基隆市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taiwan Province,基隆市,Asia/Taipei,25.1283,121.7419,710000
+AACD9,Linluo Township,麟洛乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.649,120.53,710000
+AACF5,Mituo District,弥陀区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.7801,120.24,710000
+AD033,Lukang Township,鹿港镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,24.081,120.428,710000
+AD179,Yuanlin Township,员林镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,23.957,120.593,710000
+AD515,Wanluan Township,万峦乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.582,120.602,710000
+AE2EB,Zhuangwei Township,壮围乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan County,宜兰县,Asia/Taipei,24.752,121.802,710000
+AEA05,Fengshan District,凤山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.6333,120.35,710000
+AF42E,Houbi District,后壁区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.3627,120.349,710000
+AF6DE,Zaoqiao Township,造桥乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.625,120.869,710000
+B1954,Dongshi District,东势区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.261,120.82,710000
+B1B72,Linbian Township,林边乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.442,120.513,710000
+B25DD,Dashe District,大社区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.7431,120.371,710000
+B263B,Shalu District,沙鹿区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.237,120.557,710000
+B28D3,Gongliao District,貢寮区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.0167,121.9,710000
+B345C,Sinshih District,新市区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.0833,120.3,710000
+B40F3,Sihu Township,四湖乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.642,120.206,710000
+B4131,Datong District,大同区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,25.0597,121.5142,710000
+B4967,Yuanchang Township,元长乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.643,120.328,710000
+B509A,Donggang Township,东港镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.463,120.475,710000
+B57C7,Sanyi Township,三义乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.381,120.77,710000
+B75BB,Zhuoxi Township,卓溪乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,23.386,121.176,710000
+B7A02,Shoufeng Township,寿丰乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,23.845,121.534,710000
+B7B31,Zhushan Township,竹山镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou County,南投县,Asia/Taipei,23.698,120.71,710000
+B82B7,Xinyi Township,信义乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou County,南投县,Asia/Taipei,23.656,121.021,710000
+B8DEC,Fangliao Township,枋寮乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.403,120.598,710000
+B93FB,Sinsing District,新兴区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.6247,120.3013,710000
+B99C9,Daya District,大雅区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.205,120.656,710000
+BA103,Chunri Township,春日乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.404,120.698,710000
+BAD4D,Xiluo Township,西螺镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.779,120.458,710000
+BB61B,Guangfu Township,光复乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,23.646,121.435,710000
+BBB19,Wuqi District,梧栖区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.292,120.524,710000
+BBE60,Baozhong Township,褒忠乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.716,120.311,710000
+BCAE1,Taishan District,泰山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.05,121.26,710000
+BCF10,Baisha Township,白沙乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Penghu County,澎湖县,Asia/Taipei,23.671,119.593,710000
+BD890,Nantun District,南屯区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.145,120.645,710000
+BDA5B,Sanzhi District,三芝区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.2367,121.5253,710000
+BE9AC,Dawu Township,大武乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,22.383,120.898,710000
+BEA9E,Siaogang District,小港区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.5544,120.36,710000
+BF01C,Shuili Township,水里乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou County,南投县,Asia/Taipei,23.796,120.862,710000
+BFA38,Tamsui District,淡水区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.1667,121.4333,710000
+BFFEA,Beimen District,北门区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.288,120.1252,710000
+C1078,Majia Township,玛家乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.671,120.68,710000
+C30C,Zhubei,竹北市,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.8333,121.012,710000
+C346,Zhongshan District,中山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,25.0689,121.5331,710000
+C4AF1,Neipu Township,内埔乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.651,120.589,710000
+C4BED,Longtan District,龙潭区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,24.864,121.216,710000
+C532F,Waipu Area,外埔区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.302,120.581,710000
+C5445,Luodong Township,罗东镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan County,宜兰县,Asia/Taipei,24.679,121.77,710000
+C5473,Shuishang Township,水上乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.429,120.415,710000
+C87FF,Wufeng Township,五峰乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.578,121.139,710000
+CA3,Toufen Township,头份镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.676,120.919,710000
+CA83B,Fenglin Township,凤林镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,23.742,121.465,710000
+CAE8D,Sanmin District,三民区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.6562,120.327,710000
+CB526,Lioujia District,六甲区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.224,120.377,710000
+CB5C1,Shanhua District,善化区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.1333,120.3,710000
+CD807,Zuoying District,左营区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.6822,120.294,710000
+CF68C,Beipu Township,北埔乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.672,121.064,710000
+CFCC4,Dongshi Township,东势乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.696,120.257,710000
+D05D7,Minxiong Township,民雄乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.543,120.444,710000
+D0809,Xiyu Township,西屿乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Penghu County,澎湖县,Asia/Taipei,23.6,119.508,710000
+D0B00,Shiding District,石碇区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.0,121.65,710000
+D13AC,Xinyi District,信义区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,25.0358,121.5683,710000
+D257A,Zhunan Township,竹南镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.699,120.876,710000
+D2EBD,Qimei Township,七美乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Penghu County,澎湖县,Asia/Taipei,23.201,119.434,710000
+D3A0D,Anle Distric,安乐区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Keelung City,基隆市,Asia/Taipei,25.124,121.732,710000
+D3A1D,Zhongzheng,中正区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Keelung,基隆市,Asia/Taipei,25.1529,121.7297,710000
+D4650,Lucao Township,鹿草乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.408,120.305,710000
+D54D9,Neihu District,内湖区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taipei,台北市,Asia/Taipei,25.0667,121.5833,710000
+D6C2D,Zhongli  District,中坜区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,24.979,121.2395,710000
+D7481,Lugu Township,鹿谷乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou County,南投县,Asia/Taipei,23.738,120.782,710000
+D7D8E,Donghe Township,东河乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,22.98,121.252,710000
+D8B7D,Jiasian District,甲仙区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,23.0833,120.5833,710000
+D9469,Luzhou District,蘆洲区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.0833,121.4667,710000
+D96E9,Banqiao District,板桥区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.0097,121.4591,710000
+D9B1A,Dalin Township,大林镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Chiayi County,嘉义县,Asia/Taipei,23.599,120.481,710000
+DA4C5,Qionglin Township,芎林乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.766,121.105,710000
+DACF8,Tongluo Township,铜锣乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.456,120.799,710000
+DB374,Zhongliao Township,中寮乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou County,南投县,Asia/Taipei,23.906,120.786,710000
+DBA28,Erlun Township,二仑乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.793,120.396,710000
+DCECC,North District,北区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.159,120.681,710000
+DE049,Nanzhuang Township,南庄乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.566,121.017,710000
+DE3B7,Hukou Township,湖口乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.886,121.052,710000
+DE8A4,Chenggong Township,成功镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,23.127,121.354,710000
+DED29,East District,东区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,22.9857,120.226,710000
+DFB95,Taiwu Township,泰武乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.604,120.692,710000
+E00DD,Touwu Township,头屋乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Miaoli County,苗栗县,Asia/Taipei,24.574,120.883,710000
+E3120,Namasia District,那玛夏区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,23.2716,120.726,710000
+E427E,Sanxing Township,三星乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan County,宜兰县,Asia/Taipei,24.668,121.664,710000
+E4AB6,Xiaying District,下营区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,23.2291,120.2646,710000
+E5098,Zuojhen District,左镇区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,22.9552,120.385,710000
+E5452,Huwei Township,虎尾镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.717,120.429,710000
+E6107,Huatan Township,花坛乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,24.03,120.56,710000
+E8B22,Fuxing Township,福兴乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Changhua County,彰化县,Asia/Taipei,24.033,120.423,710000
+E8BA8,Fengyuan District,丰原区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.254,120.723,710000
+E9D19,Xinpi Township,新埤乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.487,120.585,710000
+E9D4F,Qieding District,茄萣区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.9068,120.1826,710000
+E9DC2,Xinzhuang District,新庄区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.0333,121.45,710000
+EA346,Fuli Township,富里乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,23.197,121.298,710000
+EB721,Yuchi Township,鱼池乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Nantou County,南投县,Asia/Taipei,23.876,120.926,710000
+EBC37,Datong Township,大同乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yilan County,宜兰县,Asia/Taipei,24.546,121.515,710000
+EBCEC,Yuli Township,玉里镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hualien County,花莲县,Asia/Taipei,23.372,121.361,710000
+EC5FB,Liuqiu Township,琉球乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.34,120.371,710000
+ED37A,Gushan District,鼓山区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.6489,120.2725,710000
+ED785,Daxi District,大溪区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,24.812,121.245,710000
+EDE8C,Renwu District,仁武区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.697,120.358,710000
+EE096,Yanping Township,延平乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taitung County,台东县,Asia/Taipei,22.903,120.983,710000
+EE328,Guanxi Township,关西镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Hsinchu County,新竹县,Asia/Taipei,24.785,121.187,710000
+EED7A,Heping District,和平区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.167,120.93,710000
+EFBAC,Xindian District,新店区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,24.95,121.5333,710000
+F0DE1,Gueiren District,归仁区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Tainan,台南市,Asia/Taipei,22.9667,120.2833,710000
+F116A,Renai District,仁爱区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Keelung City,基隆市,Asia/Taipei,25.128,121.74,710000
+F178D,Ciaotou District,桥头区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Kaohsiung,高雄市,Asia/Taipei,22.7518,120.301,710000
+F21E4,Shuangxi District,双渓区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,New Taipei City,新北市,Asia/Taipei,25.0097,121.8342,710000
+F2FA2,Shengang District,神冈区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taichung City,台中市,Asia/Taipei,24.251,120.69,710000
+F35CF,Beigang Township,北港镇,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Yunlin County,云林县,Asia/Taipei,23.592,120.294,710000
+F4F1,Yanpu Township,盐埔乡,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Pingtung County,屏东县,Asia/Taipei,22.743,120.569,710000
+F69B,Xinwu District,新屋区,TW,"Taiwan, Province of China",中国台湾省,"Taiwan, Province of China",台湾省,Taoyuan,桃园市,Asia/Taipei,24.971,121.104,710000
