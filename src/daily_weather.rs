@@ -1,16 +1,19 @@
 //! 获取全国每日天气
 
+use chrono::{Datelike, Local};
 use csv::Reader;
 use qweather_sdk::api::APIResponse;
 use qweather_sdk::api::weather::WeatherDailyForecastResponse;
 use qweather_sdk::client::QWeatherClient;
+use serde::Serialize;
+use std::path;
 use std::process::exit;
 use std::sync::Arc;
 use std::time::Duration;
+use tokio::fs;
 use tokio::{task, time};
-
 #[allow(dead_code)]
-#[derive(Debug)]
+#[derive(Debug, Serialize)]
 struct City {
     location_id: String,
     location_name_en: String,
@@ -34,7 +37,12 @@ struct WeatherResult {
     city_info: City,
     api_result: WeatherDailyForecastResponse,
 }
-
+#[allow(dead_code)]
+#[derive(Debug, Serialize)]
+struct WeatherOutput {
+    location_info: City,
+    response: WeatherDailyForecastResponse,
+}
 async fn city_reader() -> Vec<City> {
     // Read CSV in blocking task to avoid blocking async runtime
     let cities = task::spawn_blocking(|| {
@@ -70,10 +78,11 @@ async fn data_getter(client: QWeatherClient, cities: Vec<City>) -> Vec<WeatherRe
     let client = Arc::new(client);
     let mut handles = Vec::new();
     // 按间隔启动查询任务
-    for city in cities.into_iter().take(3) {
-        time::sleep(Duration::from_secs(1)).await;
+    for city in cities.into_iter() {
+        time::sleep(Duration::from_micros(1)).await;
+        // 拿到一个引用计数
         let client = client.clone();
-        // 具体的代码
+        // 具体的代码 立刻开始执行
         let handle = task::spawn(async move {
             let result = client
                 .weather_daily_forecast(city.location_id.as_str(), 30)
@@ -81,11 +90,12 @@ async fn data_getter(client: QWeatherClient, cities: Vec<City>) -> Vec<WeatherRe
                 .unwrap();
             (city, result)
         });
-        handles.push(handle);
+        handles.push(handle); //添加到处理结果
     }
     // 收集并处理所有任务结果
     let mut weather_results = Vec::new();
     for handle in handles {
+        // 数据拿出来再push进去
         let (city, result) = handle.await.unwrap();
         match result {
             APIResponse::Success(value) => weather_results.push(WeatherResult {
@@ -100,11 +110,45 @@ async fn data_getter(client: QWeatherClient, cities: Vec<City>) -> Vec<WeatherRe
     }
     weather_results
 }
+async fn write_result(data: Vec<WeatherResult>) {
+    // data/daily_weather/:year/:month/:day/:location_id
+    // total.json
+    // today.json
+    let now = Local::now();
+    let path_base = path::PathBuf::from("./data/")
+        .join(now.year().to_string())
+        .join(now.month().to_string())
+        .join(now.day().to_string());
+    fs::create_dir_all(&path_base).await.unwrap();
+    // 处理成location_id: output result的形式
+    use std::collections::HashMap;
+    let mut output: HashMap<String, WeatherOutput> = HashMap::new();
+    for result in data {
+        output.insert(
+            result.city_info.location_id.clone(),
+            WeatherOutput {
+                location_info: result.city_info,
+                response: result.api_result,
+            },
+        );
+    }
+    // 分批写入
+    for (key, value) in &output {
+        let path = path_base.join(key).with_extension("json");
 
+        let json = serde_json::to_string_pretty(value).unwrap();
+        fs::write(path, json).await.unwrap();
+    }
+    // 写入统一的
+    let full_string = serde_json::to_string_pretty(&output).unwrap();
+    fs::write(path_base.join("full").with_extension("json"), full_string)
+        .await
+        .unwrap()
+}
 #[allow(unused_variables)]
 pub async fn get_daily_weather(client: QWeatherClient) {
     // Read cities from CSV
     let cities = city_reader().await;
     let data = data_getter(client, cities).await;
-    println!("{:?}", data);
+    write_result(data).await;
 }

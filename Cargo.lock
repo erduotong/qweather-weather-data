@@ -844,10 +844,13 @@ dependencies = [
 name = "qweather-weather-data"
 version = "0.1.0"
 dependencies = [
+ "chrono",
  "csv",
  "dotenvy",
  "futures",
  "qweather-sdk",
+ "serde",
+ "serde_json",
  "tokio",
 ]
 
