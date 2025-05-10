@@ -1,0 +1,10 @@
+[package]
+name = "qweather-weather-data"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dotenvy = "0.15.7"
+futures = "0.3.31"
+qweather-sdk = "0.4.0"
+tokio = { version = "1.45.0", features = ["rt", "rt-multi-thread", "macros"] }
